@@ -1,4 +1,4 @@
-# tech_competition_simulation
+# Tech Competition Simulation
 
 In this repository, you find the necessary material to play the tech competition simulation.
 
