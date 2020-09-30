@@ -22,3 +22,6 @@ The Tech Competition Simulation is a multiplayer simulation. The simulation can 
 
 Warin, Th. (2020), "Tech Competition Simulation (A): A Tech-Based Market Structure Serious Game", *Forthcoming*
 
+## Acknowledgements
+
+The author is grateful to Tatiana Apreleff for her assistance in the preparation of the case study associated to this simulation, as well as Marine Leroi, Martin Paquette and Thibault Senegas. The author remains sole responsible for mistakes and omissions. The usual caveats apply. This case and the simulation are developed solely as the basis for class discussion and are not intended to serve as endorsement, source of primary data, or illustration of effective or ineffective management.
