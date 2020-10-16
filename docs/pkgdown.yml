@@ -4,8 +4,8 @@ pkgdown_sha: e1e46f2e13c7efdb17bc4eae40bc3779c2b0b517
 home:
   title: Tech Competition Simulation
   description: >
-    Material to play the tech competition simulation
+    Material to play the tech competition simulation.
 articles:
   Rules: Rules.html
-last_built: 2020-10-16T15:07Z
+last_built: 2020-10-16T15:18Z
 
