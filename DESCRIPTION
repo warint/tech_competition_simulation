@@ -1,0 +1,18 @@
+Package: Base
+Type: Package
+Title: Tech Competition Simulation
+Version: 0.1.0
+Authors@R: 
+    person("Thierry", "Warin", email = "thierry.warin@hec.ca", role =c("aut", "cre"), comment = c(ORCID = "0000-0002-5921-3428") )
+Description: In this repository, you find the necessary material to play the tech competition simulation.
+License: MIT + file LICENSE
+Imports: curl
+URL: https://warint.github.io/tech_competition_simulation/
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+BugReports: https://github.com/warint/tech_competition_simulation/issues
